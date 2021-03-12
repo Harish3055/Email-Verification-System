@@ -1,6 +1,6 @@
 # Email-Verification-System<br>
 A simple email verification system using flask<br>
-Requirements:
+Requirements:<br>
 You can install sqlite3 using the command
 ```python
 pip install sqlite3
